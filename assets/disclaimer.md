@@ -1,0 +1,1 @@
+> **Medical Disclaimer:** This tool is for informational purposes only and does **not** constitute medical advice, diagnosis, or treatment. Always consult a qualified healthcare professional regarding your lab results or medications. Do not make health decisions based solely on this app.
