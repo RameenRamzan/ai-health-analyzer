@@ -74,19 +74,10 @@ Get a free key at: https://ai.google.dev
 streamlit run app.py
 ```
 
----
+## Contributors
 
-## Streamlit Cloud Deployment
-
-1. Push the project to a GitHub repository (**do not include the `.env` file**).
-2. Go to [share.streamlit.io](https://share.streamlit.io) and connect your repo.
-3. In the Streamlit Cloud dashboard, go to **Settings → Secrets** and add:
-
-```toml
-GEMINI_API_KEY = "your_key_here"
-```
-
-4. Deploy. The app will be live at a public URL.
+Rameen Ramzan [github.com](https://github.com/RameenRamzan)
+Umama Zubair [github.com](https://github.com/uz352006/Umama-Zubair)
 
 ---
 
